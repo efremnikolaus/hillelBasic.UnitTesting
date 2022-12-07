@@ -5,6 +5,7 @@ public class Main {
 
         double[] array = {3, 7, 10, 18};
         double average = new Array().arithmeticAverage(array);
+
         System.out.println("array average is: " + average);
     }
 }
