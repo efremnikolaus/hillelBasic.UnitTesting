@@ -1,4 +1,4 @@
-# hillelBasic.UnitTesting
+# hillelBasic.UnitTest
 There is 3 parts of a code:
 1) Adding a method that will read the arithmetic mean of the array elements.
 2) Add a method that takes a two-dimensional matrix (a two-dimensional array) in the input and checks whether it is square.
